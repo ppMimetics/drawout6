@@ -1,0 +1,10 @@
+{
+    "name": "drawout6",
+    "version": "1.0.0",
+    "manifest_version": 1,
+    "project_type": "application",
+    "executable_type": "scratch",
+    "executable": "drawout6.xml",
+    "author": "ppMimetics",
+    "minimum_firmware_version": 42
+}
